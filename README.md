@@ -6,4 +6,4 @@ En este repositorio se encuentran las gráficas corresopondientes al Tema 1: Est
 - [Polígono de frecuencias](Poligono_de_Frec.ipynb)
 - [Ojiva](Ojiva.ipynb)
 - [Diagrama de barras horizontales](Grafica_de_Barras.ipynb)
-- [Diagrama de pastel](Pastel.ipynb)
+- [Diagrama de pastel](pastel.ipynb)
